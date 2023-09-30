@@ -1,2 +1,1 @@
-print("hola manin")
-print("como estas?")
+print("hola manin, como estas?")
